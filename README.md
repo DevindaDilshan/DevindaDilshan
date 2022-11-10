@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <strong>Skills : </strong>HTML5, CSS3, Javascript, Bootstra, Java, React.
+  <strong>Skills : </strong> HTML5, CSS3, Javascript, Bootstra, Java, React.
+</p>
+<p>
+  <strong>Tools : </strong> Visual Studio Code, Android Studio, Git, Netbeans.
 </p>
