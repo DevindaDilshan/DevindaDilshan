@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+<p align="center">
   <strong>Skills : </strong> HTML5, CSS3, Javascript, Bootstrap, Java, React.
 </p>
-<p>
+<p align="center">
   <strong>Tools : </strong> Visual Studio Code, Android Studio, Git, Netbeans.
 </p>
