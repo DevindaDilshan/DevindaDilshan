@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Devinda Dilshan</h1>
 
 <!--
-**DevindaDilshan/DevindaDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,6 +20,10 @@ Here are some ideas to get you started:
 <p align="center">
   <strong>Tools : </strong> Visual Studio Code, Android Studio, Git, Netbeans.
 </p>
+
+___
+
+ <p align="center">I am currently studying at Rajarata University of Sri Lanka.</p>
 
 ___
 
