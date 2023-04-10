@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <strong>Skills : </strong> HTML5, CSS3, Javascript, Bootstrap, Java, React.
-</p>
-<p align="center">
-  <strong>Tools : </strong> Visual Studio Code, Android Studio, Git, Netbeans.
-</p>
-
-___
-
  <p align="center">I am currently studying at Rajarata University of Sri Lanka.</p>
 
 ___
