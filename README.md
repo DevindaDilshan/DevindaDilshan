@@ -1,8 +1,19 @@
-<h1 align="center">Hi, I'm Devinda Dilshan &nbsp 🇱🇰</h1>
-<hr>
-<div>
- 
+<h1 align="center">Hi, I'm Devinda Dilshan</h1>
+
+___
+<div >
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" />  
+ </div><br /> 
+ <div align="center" >    
+  <img src="https://github-readme-stats.vercel.app/api?username=devindadilshan&show_icons=true&theme=dracula" alt="dilshandevinda" />
+ </div><br />
+ <div align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devindadilshan&show_icons=true&theme=dracula" alt="devindadilshan" />
+ </div>
 </div>
+
+___
 
 ### 🛠️: Languages and Tools :
 <div>
@@ -25,10 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ___
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaDilshan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaDilshan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
