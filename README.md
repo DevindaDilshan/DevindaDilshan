@@ -1,13 +1,22 @@
 <h1 align="center">Hi, I'm Devinda Dilshan</h1>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p-->
+<br />
+<h3>Undergraduate || Aspiring Software Engineer || Java Developer || React Developer</h3>
+<br />
+
+- 🔭 I’m currently working on Java, React js, Nodejs, Spring Boot, MySQL, AWS, Mongodb
+- 🌱 I’m currently learning React js, Spring Boot, Nodejs
+- 📧 Contact me via gmail devindadilshan8@gmail.com
+<br />
 
 ___
+<br />
 <div >
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" />  
  </div><br /> 
- <div align="center" >    
+ <div align="center">    
   <img src="https://github-readme-stats.vercel.app/api?username=devindadilshan&show_icons=true&theme=dracula" alt="dilshandevinda" />
  </div><br />
  <div align="center" >
@@ -17,7 +26,8 @@ ___
 
 ___
 
-### 🛠️: Languages and Tools :
+<h3>Languages and Tools :</h3>
+<br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -38,7 +48,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/>&nbsp;
-</div>
+</div><br />
 
 ___
 
