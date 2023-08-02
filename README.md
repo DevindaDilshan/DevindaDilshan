@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Devinda Dilshan</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p>
+
 ___
 <div >
  <div align="center">
