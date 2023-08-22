@@ -2,11 +2,10 @@
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p-->
 <br />
-<h3>Undergraduate || Aspiring Software Engineer || Java Developer || React Developer</h3>
+<h3>Undergraduate || Java Developer || Fullstack Developer</h3>
 <br />
 
-- 🔭 I’m currently working on Java, React js, Nodejs, Spring Boot, MySQL, AWS, Mongodb
-- 🌱 I’m currently learning React js, Spring Boot, Nodejs
+- 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, EC2, S3, Mongodb
 - 📧 Contact me via gmail devindadilshan8@gmail.com
 <br />
 
