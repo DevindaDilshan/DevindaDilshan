@@ -11,7 +11,7 @@
 
 ___
 <br />
-<div >
+<!--div >
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" />  
  </div><br /> 
@@ -21,7 +21,7 @@ ___
  <div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devindadilshan&show_icons=true&theme=dracula" alt="devindadilshan" />
  </div>
-</div>
+</div-->
 
 ___
 
