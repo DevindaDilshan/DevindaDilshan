@@ -6,7 +6,7 @@
 <br />
 
 - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, EC2, S3, Mongodb
-- 📧 Contact me via gmail devindadilshan8@gmail.com
+<!-->- 📧 Contact me via gmail devindadilshan8@gmail.com<-->
 <br />
 
 ___
