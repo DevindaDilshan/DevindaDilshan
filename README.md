@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Devinda Dilshan</h1>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p-->
-<br />
-<h3>Undergraduate || Java Developer || Fullstack Developer</h3>
+<h3 align="center">Aspiring Software Engineer || Fullstack Developer || MERN</h3>
 <br />
 
 - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, EC2, S3, Mongodb
@@ -10,21 +9,21 @@
 
 ___
 <br />
-<!--div >
+<div >
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" />  
- </div><br /> 
- <div align="center">    
+  <!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" /-->  
+ 
+     
   <img src="https://github-readme-stats.vercel.app/api?username=devindadilshan&show_icons=true&theme=dracula" alt="dilshandevinda" />
- </div><br />
- <div align="center" >
+ 
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devindadilshan&show_icons=true&theme=dracula" alt="devindadilshan" />
  </div>
-</div-->
+</div><br>
 
 ___
 
-<h3>Languages and Tools :</h3>
+### Languages and Tools :
 <br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -38,14 +37,14 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/>&nbsp;
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/-->
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/-->
 </div><br />
 
 ___
