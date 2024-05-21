@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Engineer || Fullstack Developer || MERN</h3>
 <br />
 
-- 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, EC2, S3, Mongodb
+- 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb
 <br />
 
 ___
