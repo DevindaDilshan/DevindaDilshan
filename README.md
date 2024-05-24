@@ -1,25 +1,20 @@
 <h1 align="center">Hi, I'm Devinda Dilshan</h1>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p-->
+<br />
 <h3 align="center">Aspiring Software Engineer || Fullstack Developer || MERN</h3>
 <br />
 
-- 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb
+<p align="center"> - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb</p>
 <br />
 
-___
-<br />
-<div >
+<!--div >
  <div align="center">
   <!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=devindadilshan&show_icons=true&theme=dracula&layout=compact" alt="devindadilshan" /-->  
- 
-     
-  <img src="https://github-readme-stats.vercel.app/api?username=devindadilshan&show_icons=true&theme=dracula" alt="dilshandevinda" />
- 
- 
+  <!--img src="https://github-readme-stats.vercel.app/api?username=devindadilshan&show_icons=true&theme=dracula" alt="dilshandevinda" /-->
   <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=devindadilshan&show_icons=true&theme=dracula" alt="devindadilshan" /-->
- </div>
-</div><br>
+  </div>
+</div-->
 
 ___
 
@@ -46,8 +41,6 @@ ___
   <!--img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/-->
   <!--img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/-->
 </div><br />
-
-___
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaDilshan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
