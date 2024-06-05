@@ -2,7 +2,7 @@
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=devindadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="devindadilshan" /> </p-->
 <br />
-<h3 align="center">Aspiring Software Engineer || Fullstack Developer || MERN</h3>
+<h3 align="center">Aspiring Software Engineer || Fullstack Developer || Java || Springboot || MERN</h3>
 <br />
 
 <p align="center"> - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb</p>
