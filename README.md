@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Software Engineer || Fullstack Developer || Java || Springboot || MERN</h3>
 <br />
 
-<p align="center"> - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb</p>
+<p align="center"> - 🔭 I’m currently working on Java, React js, Node JS, Express.JS, Spring Boot, MySQL, Mongodb, Postgresql</p>
 <br />
 
 <!--div >
