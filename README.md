@@ -38,10 +38,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devindadilshan&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<!--
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devindadilshan&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
+<-->
 
 ## 📫 Connect with Me
 <p align="center">
